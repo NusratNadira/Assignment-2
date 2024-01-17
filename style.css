@@ -47,7 +47,7 @@ nav ul li{
 .banner{
     margin: 140px;
     /* background: linear-gradient(180deg,black, white) , ; */
-    background: url(../Assignment-2/Images/Group\ 13\ \(1\)\ \(1\).png);
+    background: url(/Images/Group\ 13\ \(1\)\ \(1\).png);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
