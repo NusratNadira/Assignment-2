@@ -283,6 +283,44 @@ padding-bottom: 20px;
      display: flex;
      justify-content: space-between;
 }
+
+.blog .box-container{
+    display: flex;
+    
+    gap: 20px;
+  }
+  
+  .blog .box-container .box img{
+   
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .blog .box-container .box  img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+ 
+  /* .blog .box-container .box  h3{
+    font-size: 1.5rem;
+    color: #444;
+    position: absolute;
+    top: 1rem; left: 0rem;
+    padding: .5rem 1.5rem;
+    background: var(--white);
+  } */
+  
+  .blog .box-container .box .content{
+    padding: 20px;
+    position: relative;
+   
+  }
+  
+
+  
+ 
  .news{
     display: flex;
     gap: 20px;
